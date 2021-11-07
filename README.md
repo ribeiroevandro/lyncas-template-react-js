@@ -1,0 +1,1 @@
+# Lyncas - Template base for projects in ReactJS(JavaScript)
